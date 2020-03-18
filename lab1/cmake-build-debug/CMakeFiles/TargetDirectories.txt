@@ -1,0 +1,3 @@
+/home/pawel/Desktop/Git/CPlusPlusLab/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pawel/Desktop/Git/CPlusPlusLab/lab1/cmake-build-debug/CMakeFiles/C__Lab.dir
+/home/pawel/Desktop/Git/CPlusPlusLab/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
