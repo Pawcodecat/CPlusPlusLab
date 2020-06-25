@@ -1,0 +1,19 @@
+/snap/clion/111/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/pawel/Desktop/Git/CPlusPlusLab/lab6/MyString4Students
+git found: /usr/bin/git
+-- Could NOT find GTest (missing: GTEST_LIBRARY GTEST_MAIN_LIBRARY) 
+Nie znaleziono GTesta, bedzie proba pobrania go wg kodu od p. Dimy:
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pawel/Desktop/Git/CPlusPlusLab/lab6/MyString4Students/cmake-build-debug/googletest-download
+[ 11%] Performing update step for 'googletest'
+Current branch master is up-to-date.
+[ 22%] No configure step for 'googletest'
+[ 33%] No build step for 'googletest'
+[ 44%] No install step for 'googletest'
+[ 55%] No test step for 'googletest'
+[ 66%] Completed 'googletest'
+[100%] Built target googletest
+Kod od p. Dimy wykonano
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pawel/Desktop/Git/CPlusPlusLab/lab6/MyString4Students/cmake-build-debug
